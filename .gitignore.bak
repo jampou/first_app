@@ -15,21 +15,8 @@
 /log/*.log
 /tmp
 
-# Ignore other unneeded files.
-
-doc/
-database.yml
-*.swp
-*~
-.project
-.DS_Store
-.idea
-.secret
-
-=======
 database.yml
 doc/
-*.bak
 *.swp
 *~
 
